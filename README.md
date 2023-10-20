@@ -3,7 +3,7 @@ This project was done to help identify customer preferences, popular toppings, a
 * The project is about sales in a given pizza store and giving useful insights to help increase productivity and profitabilty.
 * Sales are transaction between two or more parties in which the buyer receives tangible or intangible goods, services, or assets in exchange for money. In some cases, other assets are paid to a seller.
 
-## Steps taken in to make this project a success
+## Steps taken to make this project a success
 * Data Collection: Gathering relevant sales data from various sources, such as point-of-sale systems, customer databases, and online platforms.
 * Data Cleaning and Preparation: Ensuring the data is accurate and consistent by removing duplicates, correcting errors, and organizing it for analysis.
 * Exploratory Data Analysis (EDA): Using statistical and visualization techniques to gain initial insights into the data, such as identifying top-selling products, sales 
@@ -12,5 +12,7 @@ This project was done to help identify customer preferences, popular toppings, a
 * Visualization: Creating clear and compelling visualizations in tools like Tableau to communicate findings and insights to stakeholders.
 * Recommendations: Drawing actionable insights from the analysis and suggesting strategies for improving sales, pricing, marketing, and inventory management.
 
+## Visualization using power bi 
+![Screenshot (60)](https://github.com/olqkunle/olqkunle-powerbi-project/assets/84230867/ac505937-5810-4021-aa7b-9994ca944e51)
 
-
+## Insights and recommendations 
